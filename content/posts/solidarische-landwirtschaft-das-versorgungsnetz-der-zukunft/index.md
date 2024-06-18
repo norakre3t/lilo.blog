@@ -3,6 +3,7 @@ title = "Solidarische Landwirtschaft - Das Versorgungsnetz der Zukunft?"
 date = "2024-06-18"
 draft = false
 pinned = false
+footnotes = "Solidarische Landwirtschaft - Das Versorgungsnetz der Zukunft?  **Von Erwan und Nora**"
 +++
 # **Solidarische Landwirtschaft- das Versorgungsnetz der Zukunft?**
 
