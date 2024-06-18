@@ -12,9 +12,9 @@ pinned = false
 
 Einer hat einen zweiten Arbeitsplatz, weil er bei der Solawi nicht genug verdient und der andere sorgt sich monatlich darum, ob sein Einkommen für den nächsten gesichert sein wird.
 
+![Martin Huggenberger neben einem Feld mit Mulch](img_3224-noch-schlechtere-auflosung.jpg "Martin Huggenberger neben einem Feld mit Mulch")
 
 
-<!--StartFragment-->Martin Huggenberger neben einem Feld mit Mulch<!--EndFragment-->
 
 <!--StartFragment-->
 
@@ -54,19 +54,15 @@ Gemeinsam mit Kartoffeln, Karotten, etwas Öl und Gewürzen schmeckt die Pastina
 
 Einmal wöchentlich bringt ihre Tochter auf dem Heimweg von der Schule die Gemüsetasche mit, die nur wenige hundert Meter von ihrem Haus an einer Sammelstelle abgeholt wird, direkt in die Küche. Dort bereitet die Familie oft gemeinsam das Abendessen zu. Doch dieses Gemüse kommt nicht ohne eigenen Einsatz auf den Tisch. Jeden zweiten Samstag im Monat steht Andrea frühmorgens auf dem Dorfplatz in Münsingen, mitten im Trubel des Wochenmarktes. Hier beantwortet sie Fragen und wirbt neue Mitglieder für die Solidarische Landwirtschaft in Münsingen. Obwohl es eine anstrengende Aufgabe ist, findet Andrea sie auch bereichernd, da sie immer wieder in interessante Gespräche verwickelt wird.
 
-![]()
-
 <!--EndFragment-->
 
 
 
-<!--StartFragment-->
+
 
 „Die Blume“ – Eine Verteilung der verschiedenen Arbeiten auf die Mitglieder*innen der Solawi Setzhouz
 
-<!--EndFragment-->
-
-<!--StartFragment-->
+![„Die Blume“ – Eine Verteilung der verschiedenen Arbeiten auf die Mitglieder*innen der Solawi Setzhouz](bild-blume-winziger.png "„Die Blume“ – Eine Verteilung der verschiedenen Arbeiten auf die Mitglieder*innen der Solawi Setzhouz")
 
 #### Die Sache mit den Subventionen
 
