@@ -12,7 +12,7 @@ pinned = false
 
 Einer hat einen zweiten Arbeitsplatz, weil er bei der Solawi nicht genug verdient und der andere sorgt sich monatlich darum, ob sein Einkommen für den nächsten gesichert sein wird.
 
-![Martin Huggenberger neben einem Feld mit Mulch](img_3224-noch-schlechtere-auflosung.jpg)
+![Martin Huggenberger neben einem Feld mit Mulch (Foto : Erwan)](img_3224-noch-schlechtere-auflosung.jpg)
 
 
 
@@ -74,7 +74,7 @@ Einmal wöchentlich bringt ihre Tochter auf dem Heimweg von der Schule die Gemü
 
 „Die Blume“ – Eine Verteilung der verschiedenen Arbeiten auf die Mitglieder*innen der Solawi Setzhouz
 
-![„Die Blume“ – Eine Verteilung der verschiedenen Arbeiten auf die Mitglieder*innen der Solawi Setzhouz](bild-blume-530.png)
+![„Die Blume“ – Eine Verteilung der verschiedenen Arbeiten auf die Mitglieder*innen der Solawi Setzhouz (Foto: Erwan)](bild-blume-530.png)
 
 #### Die Sache mit den Subventionen
 
