@@ -62,7 +62,7 @@ Einmal wöchentlich bringt ihre Tochter auf dem Heimweg von der Schule die Gemü
 
 „Die Blume“ – Eine Verteilung der verschiedenen Arbeiten auf die Mitglieder*innen der Solawi Setzhouz
 
-![„Die Blume“ – Eine Verteilung der verschiedenen Arbeiten auf die Mitglieder*innen der Solawi Setzhouz](bild-blume-winziger.png "„Die Blume“ – Eine Verteilung der verschiedenen Arbeiten auf die Mitglieder*innen der Solawi Setzhouz")
+![„Die Blume“ – Eine Verteilung der verschiedenen Arbeiten auf die Mitglieder*innen der Solawi Setzhouz](bild-blume-530.png "„Die Blume“ – Eine Verteilung der verschiedenen Arbeiten auf die Mitglieder*innen der Solawi Setzhouz")
 
 #### Die Sache mit den Subventionen
 
