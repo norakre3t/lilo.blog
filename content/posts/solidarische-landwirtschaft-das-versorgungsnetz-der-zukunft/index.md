@@ -20,15 +20,19 @@ Einer hat einen zweiten Arbeitsplatz, weil er bei der Solawi nicht genug verdien
 
 #### **Ein etwas anderer Hof**
 
-Die Nachricht erreicht uns, als wir verschwitz von der unnötigen Hetzerei in den Zug stressen – Martin Huggenberger, Gärtner der solidarischen Landwirtschaft Setzhouz in Münsingen, wird sich um eine halbe Stunde verspäten. Der Grund für diesen Aufschub? Er ist noch an seinem Zweitarbeitsplatz beschäftigt. Die zusätzliche Zeit gibt uns die Gelegenheit, uns in Ruhe auf dem Grundstück der solidarischen Landwirtschaft umzusehen, die in der kleinen Stadt Münsingen, idyllisch eingebettet zwischen Thun und Bern, liegt.
+<!--StartFragment-->
+
+Die Nachricht erreicht uns, als wir verschwitzt von der unnötigen Hetzerei in den Zug stressen – Martin Huggenberger, Gärtner der solidarischen Landwirtschaft Setzhouz in Münsingen, wird sich um eine halbe Stunde verspäten. Der Grund für diesen Aufschub? Er ist noch an seinem Zweitarbeitsplatz beschäftigt. Die zusätzliche Zeit gibt uns die Gelegenheit, uns in Ruhe auf dem Grundstück der solidarischen Landwirtschaft umzusehen, die in der kleinen Stadt Münsingen, idyllisch eingebettet zwischen Thun und Bern, liegt.
 
 Wer durch das überwucherte Eingangstor schlendert, wird in der fast schon idyllischen Stille kaum umhin kommen, das Informationsplakat zu lesen:
 
 „Nach dem Prinzip der Solidarischen Landwirtschaft werden die Betriebskosten solidarisch auf die Mitglieder des Vereins aufgeteilt.“
 
-Und noch spezifiziert wird das Ganze mit der Information, dass jährlich 25 Stunden Pro Jahr mitgearbeitet werden muss. Sei es auf dem Feld, bei der Administration oder mit einem höheren finanziellen Beitrag, jede Person kann entscheiden, wie sie mitmachen will (siehe unteres Bild). Ein weiterer wichtiger Aspekt der solidarischen Landwirtschaft ist die Idee der Vorfinanzierung. Jedes Mitglied muss beim Beitritt einen Anteil der Solawi erwerben und einen monatlich festen Betrag für die Gemüsetaschen bezahlen – unabhängig von der Höhe der Ernte. Somit wird den Landwirtinnen und Landwirte einen festen Lohn gesichert. Durch diesen können sie sich auf die Qualität der Produkte konzentrieren, neue Arten ausprobieren und andere anbauen, die sonst nicht rentabel wären. Somit wird der Druck abgebaut, unbedingt etwas erwirtschaften zu müssen.
+Und noch spezifiziert wird das Ganze mit der Information, dass 25 Stunden Pro Jahr mitgearbeitet werden muss. Sei es auf dem Feld, bei der Administration oder mit einem höheren finanziellen Beitrag, jede Person kann entscheiden, wie sie mitmachen will (siehe unteres Bild). Ein weiterer wichtiger Aspekt der solidarischen Landwirtschaft ist die Idee der Vorfinanzierung. Jedes Mitglied muss beim Beitritt einen Anteil der Solawi erwerben und einen monatlich festen Betrag für die Gemüsetaschen bezahlen – unabhängig von der Höhe der Ernte. Somit wird den Landwirtinnen und Landwirte einen festen Lohn gesichert. Durch diesen können sie sich auf die Qualität der Produkte konzentrieren, neue Arten ausprobieren und andere anbauen, die sonst nicht rentabel wären. Somit wird der Druck abgebaut, unbedingt etwas erwirtschaften zu müssen.
 
 Weiter hinten auf dem ein Hektar grossen Landfleck finden wir eine kleine Aufzucht für Setzlinge, einen kleinen Bagger ohne Vorderräder, eine Scheune mit eingebauter Küche und einen interessant riechenden Kompost direkt neben einem matschigen Weg, der in Richtung der Bahngleise führt.
+
+<!--EndFragment-->
 
 <!--EndFragment-->
 
@@ -36,9 +40,11 @@ Weiter hinten auf dem ein Hektar grossen Landfleck finden wir eine kleine Aufzuc
 
 #### Ein Weg bis hin zur Solawi
 
+<!--StartFragment-->
+
 Martin Huggenberger begann seine berufliche Laufbahn in der Landwirtschaft, einem Bereich, der ihn bis heute immer wieder anzieht.
 
- Aber eben nur fast. Angefangen hat er auf einem konventionellen Landwirtschaftsbetrieb und berichtet wie er „den Druck, so viel wie möglich aus dem Boden herauszuwirtschaften, unerwartet stark zu spüren bekam, was mich kurzum überbelastet“ Was dann folgte war eine Umorientierung, die ihn in die sozialen Bereiche des Berufsmarktes trieb. Dass er heute bei einer solidarischen Landwirtschaft arbeitet, verbinde seine Lieblingselemente lückenlos,  wie er strahlend kommentiert.
+Angefangen hat er auf einem konventionellen Landwirtschaftsbetrieb und berichtet wie er „den Druck, so viel wie möglich aus dem Boden herauszuwirtschaften, unerwartet stark zu spüren bekam, was mich kurzum überbelastet“ Was dann folgte war eine Umorientierung, die ihn in die sozialen Bereiche des Berufsmarktes trieb. Dass er heute bei einer solidarischen Landwirtschaft arbeitet, verbinde seine Lieblingselemente lückenlos,  wie er strahlend kommentiert.
 
 Natürlich birgt jeder Traumberuf auch seine Tücken. Für Martin bestehen diese darin, dass es häufig langwierige Prozesse hervorrufen kann, wenn keine Hierarchien entstehen sollen, der Prozess transparent kommuniziert und auf alle eingegangen werden muss.
 
@@ -46,13 +52,19 @@ Am meisten Schwierigkeiten berge aber die Aufgabe alle Mitglieder und sich selbs
 
 <!--EndFragment-->
 
+<!--EndFragment-->
+
 <!--StartFragment-->
 
 #### Solawi eingebettet im Alltag
 
+<!--StartFragment-->
+
 Gemeinsam mit Kartoffeln, Karotten, etwas Öl und Gewürzen schmeckt die Pastinake am besten und erinnert geschmacklich an eine Mischung aus Karotte und Petersilie. Diese Entdeckung machte Andrea Grossmann, als sie vor einem Jahr neues Mitglied bei Setzhouz wurde. Nun lernt sie Gemüsesorten kennen, die in herkömmlichen Supermärkten schwer zu finden sind.
 
 Einmal wöchentlich bringt ihre Tochter auf dem Heimweg von der Schule die Gemüsetasche mit, die nur wenige hundert Meter von ihrem Haus an einer Sammelstelle abgeholt wird, direkt in die Küche. Dort bereitet die Familie oft gemeinsam das Abendessen zu. Doch dieses Gemüse kommt nicht ohne eigenen Einsatz auf den Tisch. Jeden zweiten Samstag im Monat steht Andrea frühmorgens auf dem Dorfplatz in Münsingen, mitten im Trubel des Wochenmarktes. Hier beantwortet sie Fragen und wirbt neue Mitglieder für die Solidarische Landwirtschaft in Münsingen. Obwohl es eine anstrengende Aufgabe ist, findet Andrea sie auch bereichernd, da sie immer wieder in interessante Gespräche verwickelt wird.
+
+<!--EndFragment-->
 
 <!--EndFragment-->
 
@@ -66,9 +78,9 @@ Einmal wöchentlich bringt ihre Tochter auf dem Heimweg von der Schule die Gemü
 
 #### Die Sache mit den Subventionen
 
-Man könnte meinen, dass SoLaWi-Betriebe durch ihre solidarische und bodenschonende Arbeitsweise mehr Subventionen bekommen, als konventionelle Bauernhöfe. Im Falle des Setzhouzes ist aber das Gegenteil der Fall. Wegen ihrer Rechtsform (Verein) hat diese Solawi kein Anrecht auf Subventionen. Dass sie in eine solche Lage sind liegt daran, dass man, um eine Genossenschaft oder ein Betrieb  zu sein ein Gebäude haben muss. Jedoch ist das für das Setzhouz am aktuellen Standort aus zwei Gründen nicht möglich. Zum einen, ironischerweise, wegen fehlender finanzieller Mittel und zum anderen aufgrund des Landschaftsschutzes. Trotz den fehlenden Subventionen überlebt das Setzhouz dank den  zahlreichen Mitgliedern, Darlehen und Spenden. Anders sieht es aus bei Hansueli Strahm aus, der einem konventionellen Betrieb führt. Subventionen bilden einen wichtiger Teil seiner Einnahmen wofür er teilweise seine Anbauweise verändert. Zum Beispiel hat er den Anteil an eingesetzten Pestiziden bei den Zuckerrüben drastisch verringert. Dafür wird er auch entsprechend vom Bund entschädigt. Auch für die Solarpanels auf dem Dach des Hofes gibt es Zuschüsse. Ein gezielter Einsatz von Subventionen wäre ein gutes Werkzeug. So würden Bäuerinnen und Bauern weniger Pestizide, Wasser und synthetische Düngemittel einsetzen und den Boden übernutzen, da die anders erworbenen finanziellen Mittel dazu führen, dass auch eine leicht verringerte Ernte genug Einnahmen beschert. Betriebe würden so einen Anreiz finden,  ökologische Alternativen in Betracht zu ziehen.
+<!--StartFragment-->Man könnte meinen, dass SoLaWi-Betriebe durch ihre solidarische und bodenschonende Arbeitsweise mehr Subventionen bekommen, als konventionelle Bauernhöfe. Im Falle des Setzhouzes ist aber das Gegenteil der Fall. Wegen ihrer Rechtsform (Verein) hat diese Solawi kein Anrecht auf Subventionen. Dass sie in eine solche Lage sind liegt daran, dass man, um eine Genossenschaft oder ein Betrieb  zu sein, ein Gebäude haben muss. Jedoch ist das für das Setzhouz am aktuellen Standort aus zwei Gründen nicht möglich. Zum einen, ironischerweise, wegen fehlender finanzieller Mittel und zum anderen aufgrund des Landschaftsschutzes. Trotz den fehlenden Subventionen überlebt das Setzhouz dank den  zahlreichen Mitgliedern, Darlehen und Spenden. Anders sieht es aus bei Hansueli Strahm aus, der einem konventionellen Betrieb führt. Subventionen bilden einen wichtiger Teil seiner Einnahmen wofür er teilweise seine Anbauweise verändert. Zum Beispiel hat er den Anteil an eingesetzten Pestiziden bei den Zuckerrüben drastisch verringert. Dafür wird er auch entsprechend vom Bund entschädigt. Auch für die Solarpanels auf dem Dach des Hofes gibt es Zuschüsse. Ein gezielter Einsatz von Subventionen wäre ein gutes Werkzeug. So würden Bäuerinnen und Bauern weniger Pestizide, Wasser und synthetische Düngemittel einsetzen und den Boden dabei übernutzen, da die anders erworbenen finanziellen Mittel dazu führen, dass auch eine leicht verringerte Ernte genug Einnahmen beschert. Betriebe würden so einen Anreiz finden,  ökologische Alternativen in Betracht zu ziehen.<!--EndFragment-->
 
-<!--EndFragment-->
+
 
 <!--StartFragment-->
 
