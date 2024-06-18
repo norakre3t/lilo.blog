@@ -11,7 +11,7 @@ footnotes = "Solidarische Landwirtschaft - Das Versorgungsnetz der Zukunft?  **V
 
 <!--StartFragment-->
 
-Einer hat einen zweiten Arbeitsplatz, weil er bei der Solawi nicht genug verdient und der andere sorgt sich monatlich darum, ob sein Einkommen für den nächsten gesichert sein wird.
+Einer hat einen zweiten Arbeitsplatz, weil er bei der Solawi nicht genug verdient und der andere sorgt sich monatlich darum, ob sein Einkommen für den nächsten gesichert sein wird. Für beide steht das Prinzip des Kreislaufes sehr gross geschrieben. Die Interpretation unterscheidet sich allerdings deutlich.<!--EndFragment-->
 
 ![Martin Huggenberger neben einem Feld mit Mulch (Foto : Erwan)](img_3224-noch-schlechtere-auflosung.jpg)
 
