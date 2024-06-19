@@ -33,8 +33,6 @@ Weiter hinten auf dem ein Hektar grossen Landfleck finden wir eine kleine Aufzuc
 
 <!--EndFragment-->
 
-<!--EndFragment-->
-
 <!--StartFragment-->
 
 #### Ein Weg bis hin zur Solawi
