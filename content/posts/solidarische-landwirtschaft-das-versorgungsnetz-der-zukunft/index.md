@@ -5,9 +5,7 @@ draft = false
 pinned = false
 footnotes = "Solidarische Landwirtschaft - Das Versorgungsnetz der Zukunft?  **Von Erwan und Nora**"
 +++
-# **Solidarische Landwirtschaft- das Versorgungsnetz der Zukunft?**
-
-*Nur 0.097% der Schweizer Landwirtschaftsbetriebe setzen heutzutage auf das System der solidarischen Landwirtschaft.*
+## *Nur 0.097% der Schweizer Landwirtschaftsbetriebe setzen heutzutage auf das System der solidarischen Landwirtschaft.*
 
 {{<lead>}}
 
