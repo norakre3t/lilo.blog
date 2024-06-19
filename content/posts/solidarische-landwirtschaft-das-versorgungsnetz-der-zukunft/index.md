@@ -1,5 +1,5 @@
 +++
-title = "Solidarische Landwirtschaft - Das Versorgungsnetz der Zukunft?"
+title = "Solidarische Landwirtschaft – Das Versorgungsnetz der Zukunft?"
 date = "2024-06-18"
 draft = false
 pinned = false
