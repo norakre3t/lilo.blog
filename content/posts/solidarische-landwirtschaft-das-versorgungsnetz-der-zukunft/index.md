@@ -61,23 +61,13 @@ Gemeinsam mit Kartoffeln, Karotten, etwas Öl und Gewürzen schmeckt die Pastina
 
 Einmal wöchentlich bringt ihre Tochter auf dem Heimweg von der Schule die Gemüsetasche mit, die nur wenige hundert Meter von ihrem Haus an einer Sammelstelle abgeholt wird, direkt in die Küche. Dort bereitet die Familie oft gemeinsam das Abendessen zu. Doch dieses Gemüse kommt nicht ohne eigenen Einsatz auf den Tisch. Jeden zweiten Samstag im Monat steht Andrea frühmorgens auf dem Dorfplatz in Münsingen, mitten im Trubel des Wochenmarktes. Hier beantwortet sie Fragen und wirbt neue Mitglieder für die Solidarische Landwirtschaft in Münsingen. Obwohl es eine anstrengende Aufgabe ist, findet Andrea sie auch bereichernd, da sie immer wieder in interessante Gespräche verwickelt wird.
 
-
-
-
-
-
-
 ![„Die Blume“ – Eine Verteilung der verschiedenen Arbeiten auf die Mitglieder*innen der Solawi Setzhouz (Foto: Erwan)](bild-blume-530.png)
 
 #### Die Sache mit den Subventionen
 
 {{<block>}}
 
-
-
-Man könnte meinen, dass Solawi-Betriebe durch ihre solidarische und bodenschonende Arbeitsweise mehr Subventionen bekommen, als konventionelle Bauernhöfe. Im Falle des \\*Setzhouzes\\* ist aber das Gegenteil der Fall. Wegen ihrer Rechtsform (Verein) hat diese Solawi kein Anrecht auf Subventionen. Dass sie in eine solche Lage sind liegt daran, dass man, um eine Genossenschaft oder ein Betrieb  zu sein, ein Gebäude haben muss. Jedoch ist das für das \\*Setzhouz\\* am aktuellen Standort aus zwei Gründen nicht möglich. Zum einen, ironischerweise, wegen fehlender finanzieller Mittel und zum anderen aufgrund des Landschaftsschutzes. Trotz den fehlenden Subventionen überlebt das \\*Setzhouz\\* dank den  zahlreichen Mitgliedern, Darlehen und Spenden. Anders sieht es aus bei Hansueli Strahm aus, der einem konventionellen Betrieb führt. Subventionen bilden einen wichtiger Teil seiner Einnahmen wofür er teilweise seine Anbauweise verändert. Zum Beispiel hat er den Anteil an eingesetzten Pestiziden bei den Zuckerrüben drastisch verringert. Dafür wird er auch entsprechend vom Bund entschädigt. Auch für die Solarpanels auf dem Dach des Hofes gibt es Zuschüsse. Ein gezielter Einsatz von Subventionen wäre ein gutes Werkzeug. So würden Bäuerinnen und Bauern weniger Pestizide, Wasser und synthetische Düngemittel einsetzen und den Boden dabei übernutzen, da die anders erworbenen finanziellen Mittel dazu führen, dass auch eine leicht verringerte Ernte genug Einnahmen beschert. Betriebe würden so einen Anreiz finden,  ökologische Alternativen in Betracht zu ziehen
-
-
+Man könnte meinen, dass Solawi-Betriebe durch ihre solidarische und bodenschonende Arbeitsweise mehr Subventionen bekommen, als konventionelle Bauernhöfe. Im Falle des \*Setzhouzes\* ist aber das Gegenteil der Fall. Wegen ihrer Rechtsform (Verein) hat diese Solawi kein Anrecht auf Subventionen. Dass sie in eine solche Lage sind liegt daran, dass man, um eine Genossenschaft oder ein Betrieb  zu sein, ein Gebäude haben muss. Jedoch ist das für das \*Setzhouz\* am aktuellen Standort aus zwei Gründen nicht möglich. Zum einen, ironischerweise, wegen fehlender finanzieller Mittel und zum anderen aufgrund des Landschaftsschutzes. Trotz den fehlenden Subventionen überlebt das \*Setzhouz\* dank den  zahlreichen Mitgliedern, Darlehen und Spenden. Anders sieht es aus bei Hansueli Strahm aus, der einem konventionellen Betrieb führt. Subventionen bilden einen wichtiger Teil seiner Einnahmen wofür er teilweise seine Anbauweise verändert. Zum Beispiel hat er den Anteil an eingesetzten Pestiziden bei den Zuckerrüben drastisch verringert. Dafür wird er auch entsprechend vom Bund entschädigt. Auch für die Solarpanels auf dem Dach des Hofes gibt es Zuschüsse. Ein gezielter Einsatz von Subventionen wäre ein gutes Werkzeug. So würden Bäuerinnen und Bauern weniger Pestizide, Wasser und synthetische Düngemittel einsetzen und den Boden dabei übernutzen, da die anders erworbenen finanziellen Mittel dazu führen, dass auch eine leicht verringerte Ernte genug Einnahmen beschert. Betriebe würden so einen Anreiz finden,  ökologische Alternativen in Betracht zu ziehen
 
 <!--StartFragment-->
 
@@ -100,6 +90,8 @@ Im völligen Gegensatz zu unseren Erwartungen erzählt Hansueli Strahm, bereits 
 Ausserdem betont Strahm, wie wichtig es sei, beim Anbau der Pflanzen die Zyklen im Hinterkopf zu behalten. Zum Beispiel dürfen Kartoffeln nicht öfter als alle fünf Jahre auf demselben Feld angepflanzt werden, damit sich der Boden regenerieren kann. Auch betreffend der CO2-Emissionen erzählt Hansueli Strahm von einem geschlossenen Kreislauf: Er versichert, dass mehr Treibhausgase von seinen Pflanzen eingefangen würden als von seinen Kühen ausgestossen. Nota Bene, gemäss einem Artikel der NZZ können die Böden nicht endlos CO2 aufnehmen und es ist schon vorgekommen, dass die Aufnahmefähigkeit von Pflanzen überschätzt wurde. Aus diesen Gründen ist diese Aussage mit Vorsicht zu geniessen.
 
 <!--EndFragment-->
+
+![Blick von der Strasse über das Gelände des Setzhouzes (Foto: Erwan)](whatsapp-image-2024-06-19-at-11.02.26.jpeg)
 
 <!--StartFragment-->
 
