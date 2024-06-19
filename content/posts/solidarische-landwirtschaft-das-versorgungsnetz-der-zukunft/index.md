@@ -15,11 +15,9 @@ Einer hat einen zweiten Arbeitsplatz, weil er bei der Solawi nicht genug verdien
 
 ![Martin Huggenberger neben einem Feld mit Mulch (Foto : Erwan)](img_3224-noch-schlechtere-auflosung.jpg)
 
-<!--StartFragment-->
+
 
 #### **Ein etwas anderer Hof**
-
-<!--StartFragment-->
 
 Die Nachricht erreicht uns, als wir verschwitzt von der unnötigen Hetzerei in den Zug stressen – Martin Huggenberger, Gärtner der solidarischen Landwirtschaft (abgekürzt Solawi) *Setzhouz* in Münsingen, wird sich um eine halbe Stunde verspäten. Der Grund für diesen Aufschub? Er ist noch an seinem Zweitarbeitsplatz beschäftigt. Die zusätzliche Zeit gibt uns die Gelegenheit, uns in Ruhe auf dem Grundstück der solidarischen Landwirtschaft umzusehen, die in der Gemeinde Münsingen, idyllisch eingebettet zwischen Thun und Bern, liegt.
 
@@ -31,13 +29,9 @@ Und noch spezifiziert wird das Ganze mit der Information, dass 25 Stunden Pro Ja
 
 Weiter hinten auf dem ein Hektar grossen Landfleck finden wir eine kleine Aufzucht für Setzlinge, einen kleinen Bagger ohne Vorderräder, eine Scheune mit eingebauter Küche und einen interessant riechenden Kompost direkt neben einem matschigen Weg, der in Richtung der Bahngleise führt.
 
-<!--EndFragment-->
 
-<!--StartFragment-->
 
 #### Ein Weg bis hin zur Solawi
-
-<!--StartFragment-->
 
 Martin Huggenberger begann seine berufliche Laufbahn in der Landwirtschaft, einem Bereich, der ihn bis heute immer wieder anzieht.
 
@@ -47,13 +41,9 @@ Natürlich birgt jeder Traumberuf auch seine Tücken. Für Martin bestehen diese
 
 Am meisten Schwierigkeiten berge aber die Aufgabe alle Mitglieder und sich selbst immer wieder darauf zu besinnen, was anfänglich im Vordergrund stand und woran sich die Verwirklichung ihres Projektes zu orientieren hat.
 
-<!--EndFragment-->
 
-<!--StartFragment-->
 
 #### Solawi eingebettet im Alltag
-
-<!--StartFragment-->
 
 Gemeinsam mit Kartoffeln, Karotten, etwas Öl und Gewürzen schmeckt die Pastinake am besten und erinnert geschmacklich an eine Mischung aus Karotte und Petersilie. Diese Entdeckung machte Andrea Grossmann, als sie vor einem Jahr neues Mitglied bei *Setzhouz* wurde. Nun lernt sie Gemüsesorten kennen, die in herkömmlichen Supermärkten schwer zu finden sind.
 
@@ -73,9 +63,7 @@ Man könnte meinen, dass Solawi-Betriebe durch ihre solidarische und bodenschone
 
 2,8 Millionen Tonnen Foodwaste landen jährlich im Müll und 40% davon fallen in den Haushalten an. Diese Zahlen sind in den letzten Jahrzehnten drastisch angestiegen und Prognosen zeigen, dass sich dies so zügig kaum ändern liesse. SRF beschäftigt sich bereits im Jahr 2022 mit diesen Werten und beleuchtet den Aspekt, dass den Konsument\*innen der Bezug zu den Lebensmittel fehle. Das Mindesthaltbarkeitsdatum werde missinterpretiert und Nahrungsmittel landen im Müll, die längst noch geniessbar wären. Dies habe den Ursprung darin, dass hauptsächlich frische Nahrungsmittel täglich und zu günstigen Preisen zur Verfügung gestellt werden. Ein engerer Bezug zu den Gemüsen durch Kontakt zu denjenigen, die sie anbauen und Arbeit auf dem Feld kann diese Zahlen senken, da eine engere Beziehung zwischen Lebensmittel und Konsument\*in aufgebaut werde, glaubt Martin Huggenberger, der selbst grosse Mengen an eigenem Gemüse verarbeitet.
 
-<!--EndFragment-->
 
-<!--StartFragment-->
 
 #### Der wiederkehrende Kreislauf
 
@@ -85,11 +73,11 @@ Im völligen Gegensatz zu unseren Erwartungen erzählt Hansueli Strahm, bereits 
 
 Ausserdem betont Strahm, wie wichtig es sei, beim Anbau der Pflanzen die Zyklen im Hinterkopf zu behalten. Zum Beispiel dürfen Kartoffeln nicht öfter als alle fünf Jahre auf demselben Feld angepflanzt werden, damit sich der Boden regenerieren kann. Auch betreffend der CO2-Emissionen erzählt Hansueli Strahm von einem geschlossenen Kreislauf: Er versichert, dass mehr Treibhausgase von seinen Pflanzen eingefangen würden als von seinen Kühen ausgestossen. Nota Bene, gemäss einem Artikel der NZZ können die Böden nicht endlos CO2 aufnehmen und es ist schon vorgekommen, dass die Aufnahmefähigkeit von Pflanzen überschätzt wurde. Aus diesen Gründen ist diese Aussage mit Vorsicht zu geniessen.
 
-<!--EndFragment-->
+
 
 ![Blick von der Strasse über das Gelände des Setzhouzes (Foto: Erwan)](whatsapp-image-2024-06-19-at-11.02.26.jpeg)
 
-<!--StartFragment-->
+
 
 #### Die unsolidarische Migros
 
@@ -99,9 +87,7 @@ Die Grundidee, auf der die Migros ganz zu Beginn aufgebaut wurde, wird mit folge
 
 Den Graben aufschütten, Transparenz schaffen und auf Zwischenhändler\*innen verzichten gleicht dem Konzept der Solawi. Bis heute kauft die Migros viele ihrer Produkte direkt bei den Bäuerinnen und Bauern, vermittelt über die verschiedenen Labels. Es fallen regelmässige Zahlungen an, manche beliefern die Migros schon seit Jahren und die Handarbeit auf dem Acker ist nicht bei jeder Solawi Pflicht. Gleicht die Funktionsweise der Migros deshalb nicht der einer Solawi? Problematisch ist hier, dass das Risiko nicht geteilt wird. Fällt eine Ernte schlecht aus, wird bei einem anderen Betrieb mehr des gewünschten Gemüses gekaut und andere Landwirt\*innen gehen leer aus. Auch gelten strenge Richtlinien bezüglich dem Aussehen der Pflanzen. Eine Kartoffel mit Drahtwurmlöchern schafft es nicht bis zur Verkaufsstelle. Und das, obwohl sie problemlos gegessen werden könnte. Einschneidende Unterschiede zwischen einer solidarischen Landwirtschaft und der Beziehung  zwischen der Migros und ihren Kund*innen führen also dazu, dass viel Druck auf den Schultern der Produzenten lastet, ihre Ernten beispielsweise mit Pestiziden abzusichern.
 
-<!--EndFragment-->
 
-<!--StartFragment-->
 
 #### In den Startlöchern oder bereits am Versiegen?
 
@@ -111,12 +97,8 @@ Martin Huggenberger jedoch ist fest davon überzeugt, dass sich in Zukunft immer
 
 Hansueli Strahm sieht das anders. Er bewirtschaftet sein Hof seit Jahren erfolgreich mit dem IP-Suisse-Label. Für ihm ist der Einsatz von Pestiziden nach folgendem Motto an der Tagesordnung: „So viel wie nötig, so wenig wie möglich“. Gegen dem Vorwurf, dass Pestiziden zu den gefährlichsten Umweltgiften der Welt zählen, verteidigt er sich, indem er betont, dass Pestiziden nicht die einzige Quelle der Verschmutzung der Gewässer seien. Eine Umstellung auf das Solawi-Konzept mit Vorfinanzierung kommt für ihn nicht in Frage. Er möchte auch von ertragreichen Erntejahren profitieren und sieht darin einen Ausgleich für die Risiken, die er eingeht. Zudem stört ihn die Vorstellung, dass jemand in seine Arbeitsweise eingreifen könnte. Trotzdem begrüsst er die durch die Solawi entstehende Annäherung zwischen Menschen aus Stadt und Land, um den für ihn existierenden Graben zwischen dieser zwei Gruppen aufzuschütten. Für Hansueli Strahm ist die Erhaltung seiner Lebensqualität wichtig, weshalb er seine persönlichen Vorlieben über den Versuch stellt, die Landwirtschaft klimafreundlicher zu gestalten. Schliesslich bleibt die solidarische Landwirtschaft aus seiner Sicht bisher nichts weiter als ein gut gemeinter Ansatz.
 
-<!--EndFragment-->
 
-<!--StartFragment-->
 
 #### Keine Änderung
 
 In der Zukunft wird wohl sowohl Martin Huggenberger als auch Hansueli Strahm nach der gleichen Philosophie weiterarbeiten. Für den Einen ist die Unabhängigkeit und der finanzielle Ausgleich für die eingegangenen Risiken am Wichtigsten, während der Andere nach der Vision eines sozialeren und nachhaltigeren Systems strebt. Jedenfalls sind beide überzeugt, dass sie das Richtige tun. Doch so fremd zueinander, wie man es meinen könnte, sind sich die beiden nicht. Ab und zu helfen sie sich gegenseitig oder tauschen bei einem Kaffee Ideen aus.
-
-<!--EndFragment-->
