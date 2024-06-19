@@ -5,6 +5,8 @@ draft = false
 pinned = false
 footnotes = "Solidarische Landwirtschaft - Das Versorgungsnetz der Zukunft?  **Von Erwan und Nora**"
 +++
+![Martin Huggenberger neben einem Feld mit Mulch (Foto : Erwan)](img_3224-noch-schlechtere-auflosung.jpg)
+
 ### *Nur 0.097% der Schweizer Landwirtschaftsbetriebe setzen heutzutage auf das System der solidarischen Landwirtschaft.*
 
 {{<lead>}}
@@ -12,8 +14,6 @@ footnotes = "Solidarische Landwirtschaft - Das Versorgungsnetz der Zukunft?  **V
 Einer hat einen zweiten Arbeitsplatz, weil er bei der Solawi nicht genug verdient und der andere sorgt sich monatlich darum, ob sein Einkommen für den nächsten gesichert sein wird. Für beide steht das Prinzip des Kreislaufes sehr gross geschrieben. Die Interpretation unterscheidet sich allerdings deutlich.
 
 {{</lead>}}
-
-![Martin Huggenberger neben einem Feld mit Mulch (Foto : Erwan)](img_3224-noch-schlechtere-auflosung.jpg)
 
 #### **Ein etwas anderer Hof**
 
