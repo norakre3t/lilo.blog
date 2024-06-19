@@ -21,7 +21,7 @@ Einer hat einen zweiten Arbeitsplatz, weil er bei der Solawi nicht genug verdien
 
 <!--StartFragment-->
 
-Die Nachricht erreicht uns, als wir verschwitzt von der unnötigen Hetzerei in den Zug stressen – Martin Huggenberger, Gärtner der solidarischen Landwirtschaft (abgekürzt Solawi) *Setzhouz* in Münsingen, wird sich um eine halbe Stunde verspäten. Der Grund für diesen Aufschub? Er ist noch an seinem Zweitarbeitsplatz beschäftigt. Die zusätzliche Zeit gibt uns die Gelegenheit, uns in Ruhe auf dem Grundstück der solidarischen Landwirtschaft umzusehen, die in der kleinen Stadt Münsingen, idyllisch eingebettet zwischen Thun und Bern, liegt.
+Die Nachricht erreicht uns, als wir verschwitzt von der unnötigen Hetzerei in den Zug stressen – Martin Huggenberger, Gärtner der solidarischen Landwirtschaft (abgekürzt Solawi) *Setzhouz* in Münsingen, wird sich um eine halbe Stunde verspäten. Der Grund für diesen Aufschub? Er ist noch an seinem Zweitarbeitsplatz beschäftigt. Die zusätzliche Zeit gibt uns die Gelegenheit, uns in Ruhe auf dem Grundstück der solidarischen Landwirtschaft umzusehen, die in der Gemeinde Münsingen, idyllisch eingebettet zwischen Thun und Bern, liegt.
 
 Wer durch das überwucherte Eingangstor schlendert, wird in der fast schon idyllischen Stille kaum umhin kommen, das Informationsplakat zu lesen:
 
@@ -68,8 +68,6 @@ Einmal wöchentlich bringt ihre Tochter auf dem Heimweg von der Schule die Gemü
 Man könnte meinen, dass Solawi-Betriebe durch ihre solidarische und bodenschonende Arbeitsweise mehr Subventionen bekommen, als konventionelle Bauernhöfe. Im Falle des \*Setzhouzes\* ist aber das Gegenteil der Fall. Wegen ihrer Rechtsform (Verein) hat diese Solawi kein Anrecht auf Subventionen. Dass sie in eine solche Lage sind liegt daran, dass man, um eine Genossenschaft oder ein Betrieb  zu sein, ein Gebäude haben muss. Jedoch ist das für das \*Setzhouz\* am aktuellen Standort aus zwei Gründen nicht möglich. Zum einen, ironischerweise, wegen fehlender finanzieller Mittel und zum anderen aufgrund des Landschaftsschutzes. Trotz den fehlenden Subventionen überlebt das \*Setzhouz\* dank den  zahlreichen Mitgliedern, Darlehen und Spenden. Anders sieht es aus bei Hansueli Strahm aus, der einem konventionellen Betrieb führt. Subventionen bilden einen wichtiger Teil seiner Einnahmen wofür er teilweise seine Anbauweise verändert. Zum Beispiel hat er den Anteil an eingesetzten Pestiziden bei den Zuckerrüben drastisch verringert. Dafür wird er auch entsprechend vom Bund entschädigt. Auch für die Solarpanels auf dem Dach des Hofes gibt es Zuschüsse. Ein gezielter Einsatz von Subventionen wäre ein gutes Werkzeug. So würden Bäuerinnen und Bauern weniger Pestizide, Wasser und synthetische Düngemittel einsetzen und den Boden dabei übernutzen, da die anders erworbenen finanziellen Mittel dazu führen, dass auch eine leicht verringerte Ernte genug Einnahmen beschert. Betriebe würden so einen Anreiz finden,  ökologische Alternativen in Betracht zu ziehen
 
 {{</block>}}
-
-
 
 #### Weniger ist mehr
 
