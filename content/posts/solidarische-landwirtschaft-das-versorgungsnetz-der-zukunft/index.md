@@ -21,7 +21,7 @@ Einer hat einen zweiten Arbeitsplatz, weil er bei der Solawi nicht genug verdien
 
 <!--StartFragment-->
 
-Die Nachricht erreicht uns, als wir verschwitzt von der unnötigen Hetzerei in den Zug stressen – Martin Huggenberger, Gärtner der solidarischen Landwirtschaft (abgekürzt Solawi) Setzhouz in Münsingen, wird sich um eine halbe Stunde verspäten. Der Grund für diesen Aufschub? Er ist noch an seinem Zweitarbeitsplatz beschäftigt. Die zusätzliche Zeit gibt uns die Gelegenheit, uns in Ruhe auf dem Grundstück der solidarischen Landwirtschaft umzusehen, die in der kleinen Stadt Münsingen, idyllisch eingebettet zwischen Thun und Bern, liegt.
+Die Nachricht erreicht uns, als wir verschwitzt von der unnötigen Hetzerei in den Zug stressen – Martin Huggenberger, Gärtner der solidarischen Landwirtschaft (abgekürzt Solawi) *Setzhouz* in Münsingen, wird sich um eine halbe Stunde verspäten. Der Grund für diesen Aufschub? Er ist noch an seinem Zweitarbeitsplatz beschäftigt. Die zusätzliche Zeit gibt uns die Gelegenheit, uns in Ruhe auf dem Grundstück der solidarischen Landwirtschaft umzusehen, die in der kleinen Stadt Münsingen, idyllisch eingebettet zwischen Thun und Bern, liegt.
 
 Wer durch das überwucherte Eingangstor schlendert, wird in der fast schon idyllischen Stille kaum umhin kommen, das Informationsplakat zu lesen:
 
@@ -51,15 +51,13 @@ Am meisten Schwierigkeiten berge aber die Aufgabe alle Mitglieder und sich selbs
 
 <!--EndFragment-->
 
-<!--EndFragment-->
-
 <!--StartFragment-->
 
 #### Solawi eingebettet im Alltag
 
 <!--StartFragment-->
 
-Gemeinsam mit Kartoffeln, Karotten, etwas Öl und Gewürzen schmeckt die Pastinake am besten und erinnert geschmacklich an eine Mischung aus Karotte und Petersilie. Diese Entdeckung machte Andrea Grossmann, als sie vor einem Jahr neues Mitglied bei Setzhouz wurde. Nun lernt sie Gemüsesorten kennen, die in herkömmlichen Supermärkten schwer zu finden sind.
+Gemeinsam mit Kartoffeln, Karotten, etwas Öl und Gewürzen schmeckt die Pastinake am besten und erinnert geschmacklich an eine Mischung aus Karotte und Petersilie. Diese Entdeckung machte Andrea Grossmann, als sie vor einem Jahr neues Mitglied bei *Setzhouz* wurde. Nun lernt sie Gemüsesorten kennen, die in herkömmlichen Supermärkten schwer zu finden sind.
 
 Einmal wöchentlich bringt ihre Tochter auf dem Heimweg von der Schule die Gemüsetasche mit, die nur wenige hundert Meter von ihrem Haus an einer Sammelstelle abgeholt wird, direkt in die Küche. Dort bereitet die Familie oft gemeinsam das Abendessen zu. Doch dieses Gemüse kommt nicht ohne eigenen Einsatz auf den Tisch. Jeden zweiten Samstag im Monat steht Andrea frühmorgens auf dem Dorfplatz in Münsingen, mitten im Trubel des Wochenmarktes. Hier beantwortet sie Fragen und wirbt neue Mitglieder für die Solidarische Landwirtschaft in Münsingen. Obwohl es eine anstrengende Aufgabe ist, findet Andrea sie auch bereichernd, da sie immer wieder in interessante Gespräche verwickelt wird.
 
@@ -67,13 +65,13 @@ Einmal wöchentlich bringt ihre Tochter auf dem Heimweg von der Schule die Gemü
 
 <!--EndFragment-->
 
-„Die Blume“ – Eine Verteilung der verschiedenen Arbeiten auf die Mitglieder*innen der Solawi Setzhouz
+„Die Blume“ – Eine Verteilung der verschiedenen Arbeiten auf die Mitglieder*innen der Solawi *Setzhouz*
 
 ![„Die Blume“ – Eine Verteilung der verschiedenen Arbeiten auf die Mitglieder*innen der Solawi Setzhouz (Foto: Erwan)](bild-blume-530.png)
 
 #### Die Sache mit den Subventionen
 
-<!--StartFragment-->Man könnte meinen, dass SoLaWi-Betriebe durch ihre solidarische und bodenschonende Arbeitsweise mehr Subventionen bekommen, als konventionelle Bauernhöfe. Im Falle des Setzhouzes ist aber das Gegenteil der Fall. Wegen ihrer Rechtsform (Verein) hat diese Solawi kein Anrecht auf Subventionen. Dass sie in eine solche Lage sind liegt daran, dass man, um eine Genossenschaft oder ein Betrieb  zu sein, ein Gebäude haben muss. Jedoch ist das für das Setzhouz am aktuellen Standort aus zwei Gründen nicht möglich. Zum einen, ironischerweise, wegen fehlender finanzieller Mittel und zum anderen aufgrund des Landschaftsschutzes. Trotz den fehlenden Subventionen überlebt das Setzhouz dank den  zahlreichen Mitgliedern, Darlehen und Spenden. Anders sieht es aus bei Hansueli Strahm aus, der einem konventionellen Betrieb führt. Subventionen bilden einen wichtiger Teil seiner Einnahmen wofür er teilweise seine Anbauweise verändert. Zum Beispiel hat er den Anteil an eingesetzten Pestiziden bei den Zuckerrüben drastisch verringert. Dafür wird er auch entsprechend vom Bund entschädigt. Auch für die Solarpanels auf dem Dach des Hofes gibt es Zuschüsse. Ein gezielter Einsatz von Subventionen wäre ein gutes Werkzeug. So würden Bäuerinnen und Bauern weniger Pestizide, Wasser und synthetische Düngemittel einsetzen und den Boden dabei übernutzen, da die anders erworbenen finanziellen Mittel dazu führen, dass auch eine leicht verringerte Ernte genug Einnahmen beschert. Betriebe würden so einen Anreiz finden,  ökologische Alternativen in Betracht zu ziehen.<!--EndFragment-->
+> <!--StartFragment-->Man könnte meinen, dass Solawi-Betriebe durch ihre solidarische und bodenschonende Arbeitsweise mehr Subventionen bekommen, als konventionelle Bauernhöfe. Im Falle des *Setzhouzes* ist aber das Gegenteil der Fall. Wegen ihrer Rechtsform (Verein) hat diese Solawi kein Anrecht auf Subventionen. Dass sie in eine solche Lage sind liegt daran, dass man, um eine Genossenschaft oder ein Betrieb  zu sein, ein Gebäude haben muss. Jedoch ist das für das *Setzhouz* am aktuellen Standort aus zwei Gründen nicht möglich. Zum einen, ironischerweise, wegen fehlender finanzieller Mittel und zum anderen aufgrund des Landschaftsschutzes. Trotz den fehlenden Subventionen überlebt das *Setzhouz* dank den  zahlreichen Mitgliedern, Darlehen und Spenden. Anders sieht es aus bei Hansueli Strahm aus, der einem konventionellen Betrieb führt. Subventionen bilden einen wichtiger Teil seiner Einnahmen wofür er teilweise seine Anbauweise verändert. Zum Beispiel hat er den Anteil an eingesetzten Pestiziden bei den Zuckerrüben drastisch verringert. Dafür wird er auch entsprechend vom Bund entschädigt. Auch für die Solarpanels auf dem Dach des Hofes gibt es Zuschüsse. Ein gezielter Einsatz von Subventionen wäre ein gutes Werkzeug. So würden Bäuerinnen und Bauern weniger Pestizide, Wasser und synthetische Düngemittel einsetzen und den Boden dabei übernutzen, da die anders erworbenen finanziellen Mittel dazu führen, dass auch eine leicht verringerte Ernte genug Einnahmen beschert. Betriebe würden so einen Anreiz finden,  ökologische Alternativen in Betracht zu ziehen.<!--EndFragment-->
 
 <!--StartFragment-->
 
@@ -87,7 +85,7 @@ Einmal wöchentlich bringt ihre Tochter auf dem Heimweg von der Schule die Gemü
 
 #### Der wiederkehrende Kreislauf
 
-Im Interview mit Martin Huggenberger erwähnte er mehrmals seine Vorstellung eines Kreislaufs. Zuerst sprach er den Ressourcenverbrauch an. Im Setzhouz wird zwischen den Pflanzen Mulch gelegt, damit das Wasser nicht aus den Boden entweicht. Mulch besteht aus einer Art Stroh und soll den Boden schützen sowie erhalten. So muss sehr wenig gegossen werden. Wenn sich dann der Mulch abbaut, entsteht Humus und auf diese Weise wird die langfristige Bodenfruchtbarkeit garantiert. Das hat aber seinen Preis, denn etwa ein Drittel der Fläche des Feldes wird zum Anbau von Gräser für den Mulch verwendet.  Auch ausserhalb des Feldes hat er die Vorstellung eines Kreislaufs. Das Setzhouz sei nämlich von einem System konfrontiert, das seinen Werten nicht entspricht. Immer wieder entstehen Kontaktpunkte die es dem Setzhouz nicht ermöglichen, autark zu agieren. Deshalb hat er die Vision von einer alternativen Struktur, um unabhängig vom System zu funktionieren.
+Im Interview mit Martin Huggenberger erwähnte er mehrmals seine Vorstellung eines Kreislaufs. Zuerst sprach er den Ressourcenverbrauch an. Im *Setzhouz* wird zwischen den Pflanzen Mulch gelegt, damit das Wasser nicht aus den Boden entweicht. Mulch besteht aus einer Art Stroh und soll den Boden schützen sowie erhalten. So muss sehr wenig gegossen werden. Wenn sich dann der Mulch abbaut, entsteht Humus und auf diese Weise wird die langfristige Bodenfruchtbarkeit garantiert. Das hat aber seinen Preis, denn etwa ein Drittel der Fläche des Feldes wird zum Anbau von Gräser für den Mulch verwendet.  Auch ausserhalb des Feldes hat er die Vorstellung eines Kreislaufs. Das *Setzhouz* sei nämlich von einem System konfrontiert, das seinen Werten nicht entspricht. Immer wieder entstehen Kontaktpunkte die es dem *Setzhouz* nicht ermöglichen, autark zu agieren. Deshalb hat er die Vision von einer alternativen Struktur, um unabhängig vom System zu funktionieren.
 
 Im völligen Gegensatz zu unseren Erwartungen erzählt Hansueli Strahm, bereits in den ersten Minuten des Gespräches und während er eine seiner Kühe streichelt, wie wichtig für ihn ein anderer Kreislauf sei. Nicht essbare oder verkaufbare Pflanzenteile würden den Tieren gebracht, wie zum Beispiel Weizenstiele oder Äpfel, die von der Norm abweichen. Wiederum würde Tierkot zum natürlichen Düngen verwendet und beschränke den Einsatz von synthetischen Düngern.
 
