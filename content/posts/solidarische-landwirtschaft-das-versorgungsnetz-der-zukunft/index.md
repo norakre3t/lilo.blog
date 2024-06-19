@@ -9,6 +9,8 @@ footnotes = "Solidarische Landwirtschaft - Das Versorgungsnetz der Zukunft?  **V
 
 
 
+
+
 ![Martin Huggenberger neben einem Feld mit Mulch (Foto : Erwan)](img_3224-noch-schlechtere-auflosung.jpg)
 
 {{<lead>}}
