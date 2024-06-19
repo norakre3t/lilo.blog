@@ -65,6 +65,8 @@ Im völligen Gegensatz zu unseren Erwartungen erzählt Hansueli Strahm, bereits 
 
 Ausserdem betont Strahm, wie wichtig es sei, beim Anbau der Pflanzen die Zyklen im Hinterkopf zu behalten. Zum Beispiel dürfen Kartoffeln nicht öfter als alle fünf Jahre auf demselben Feld angepflanzt werden, damit sich der Boden regenerieren kann. Auch betreffend der CO2-Emissionen erzählt Hansueli Strahm von einem geschlossenen Kreislauf: Er versichert, dass mehr Treibhausgase von seinen Pflanzen eingefangen würden als von seinen Kühen ausgestossen. Nota Bene, gemäss einem Artikel der NZZ können die Böden nicht endlos CO2 aufnehmen und es ist schon vorgekommen, dass die Aufnahmefähigkeit von Pflanzen überschätzt wurde. Aus diesen Gründen ist diese Aussage mit Vorsicht zu geniessen.
 
+![Blick über das Gelände des Setzhouzes (Foto: Erwan)](whatsapp-image-2024-06-19-at-11.02.26.jpeg)
+
 #### Die unsolidarische Migros
 
 Die Grundidee, auf der die Migros ganz zu Beginn aufgebaut wurde, wird mit folgendem Zitat beschrieben:
